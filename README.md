@@ -34,7 +34,7 @@ This low-resolution theme is reinforced by pixel-dashed dividers, which create c
 
 The color palette moves away from standard greys, opting for a muted, retro-toned brown and beige scheme, which gives the design a unique, "aged" feel. To bring the static page to life, animated GIFs are used for the project showcases.
 
-Finally, this is contrasted by the personal, hand-drawn pixel-art illustration of myself to match with the theme, and by all the strong, bold, black borders of the layout to make it even clearer and consistent with pixel-art.
+Finally, this is reinforced by the personal, hand-drawn pixel-art illustration of myself to match with the theme, and by all the strong, bold, black borders of the layout to make it even clearer and consistent with pixel-art.
 
 
 o Link to the Figma project 
